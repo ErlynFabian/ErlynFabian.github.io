@@ -1,4 +1,4 @@
-# Mi Página Moderna
+# GitHub Page
 
 Esta es una página web minimalista, moderna y funcional, creada como ejemplo para aprender a usar **GitHub Pages**.
 
